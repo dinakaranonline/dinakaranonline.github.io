@@ -47,7 +47,7 @@ career-profile:
 
 education:
     - degree: Bachelor of Mechanical Engineering
-      university: Anna University
+      university: Anna University, Chennai, India
       time: 2002 - 2006
       details: |
 
@@ -55,7 +55,7 @@ education:
 experiences:
     - role:  Solution Architect
       time: 2013 - Present
-      company: Cognizant Technology Solutions , Chennai
+      company: Cognizant Technology Solutions , Chennai, India
       details: |
       Platform evaluation for Mobile As A Service Platform between Azure App Service Vs Firebase. Understanding feature set and validating fitment
       with Front End Cross Platform frameworks like Xamarin and React Native and integration with API Gateway like Apigee and Mulesoft. Building POC to
@@ -73,14 +73,14 @@ experiences:
 
     - role: Assistant Consultant
       time: 2011 - 2013
-      company: Tata Consultancy Services , Chennai
+      company: Tata Consultancy Services , Chennai, India
       details: |
       Design and Build of Customer relationship manaement application for multiple regions using Java/J2EE technologies
 
 
     - role: Technology Analyst
       time: 2006 - 2011
-      company: Infosys Limited, Chennai
+      company: Infosys Limited, Chennai, India
       details: |
       Experience working on a handful of projects using  Spring MVC , Struts, JSF, portlets built on top of IBM WebSphere Portal/ Application Server ,
       Web Content Management Systems like IBM WCM , Documentum WebPublisher and FAST Enterprise Search
