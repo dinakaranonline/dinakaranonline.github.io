@@ -57,18 +57,36 @@ experiences:
       time: 2013 - Present
       company: Cognizant Technology Solutions , Chennai
       details: |
+
+      Platform evaluation for Mobile As A Service Platform between Azure App Service Vs Firebase. Understanding feature set and validating fitment
+      with Front End Cross Platform frameworks like Xamarin and React Native and integration with API Gateway like Apigee and Mulesoft. Building POC to
+      identity ease of use and finally picking the best platform. Azure Active Directory for enterprise authentication using OpenID Connect and Ping Fed 
+      for authentication using SAML
+
+      Architecting front-end for eCommerce major that involved Angular and Web Content Management using IBM Digital Experience platform to accomodate 
+      different brands with distinct look and feel, micro front-end apps using Angular and content management for both Desktop and mobile apps
+
+      Architecting a REST API backend using Spring Boot , Spring REST Template , Spring Security. Integration with Oracle Database through 
+      Stored Procedure , Functions and Database Triggers
+
+      POC on Microservices using AWS Elastic Container Service with setup of CI/CD pipeline, Load Balancers, Routing etc using Cloud Formation Template
     
 
     - role: Assistant Consultant
       time: 2011 - 2013
       company: Tata Consultancy Services , Chennai
       details: |
-       
+
+      Design and Build of Customer relationship manaement application for multiple regions using Java/J2EE technologies
+
 
     - role: Technology Analyst
       time: 2006 - 2011
       company: Infosys Limited, Chennai
       details: |
+
+      Experience working on a handful of projects using  Spring MVC , Struts, JSF, portlets built on top of IBM WebSphere Portal/ Application Server ,
+      Web Content Management Systems like IBM WCM , Documentum WebPublisher and FAST Enterprise Search
      
 
 skills:
