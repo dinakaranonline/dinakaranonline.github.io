@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Dinakaran Sankaranarayanan
-    tagline: Digital Solutions Architect
+    tagline: Solution Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -22,18 +22,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Professional
-
-    interests:
-      - item: Blogging
-        link:
-
-      - item: Reading
-        link:
-
 
 career-profile:
     title: Career Profile
@@ -54,7 +42,7 @@ career-profile:
       and API Gateways like Mulesoft / Apigee
       
       Exposure to Business Domains like Banking , Insurance , Life Sciences , Retail and eCommerce
-      
+
       Have fair amount of experience leveraging many of the components from  all 3 major cloud providers -  AWS , GCP and Azure 
 
 education:
@@ -65,7 +53,7 @@ education:
 
 
 experiences:
-    - role: Digital Solutions Architect
+    - role:  Solution Architect
       time: 2013 - Present
       company: Cognizant Technology Solutions , Chennai
       details: |
