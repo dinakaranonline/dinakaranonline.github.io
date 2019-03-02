@@ -1,4 +1,6 @@
-## Welcome to Dinakaran's Personal Site 
+# Welcome to Dinakaran's Personal Site 
+
+## Professional Experience
 
 - Architecting and Building Transformative Digital Solutions at the intersection of Web , Mobile , Content, Cloud Native architectures - Container, Orchestration , Serverless, Mobile Backend As a Service( MBAAS) 
 
@@ -21,7 +23,7 @@ Have fair amount of experience leveraging many of the components from all 3 majo
 
 And I CODE. https://github.com/dinakaranonline
 
-# Career Progression 
+## Career Progression 
 
 1. Java/J2EE / Portal , Content Management (12 years , since 2006 ) 
 
