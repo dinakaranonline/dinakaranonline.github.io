@@ -62,7 +62,7 @@ experiences:
             identity ease of use and finally picking the best platform. Azure Active Directory for enterprise authentication using OpenID Connect and Ping Fed 
             for authentication using SAML
 
-            Architecting front-end for eCommerce major that involved Angular and Web Content Management using IBM Digital Experience platform to accomodate 
+            Architecting front-end for eCommerce major that involved Angular and Web Content Management using IBM Digital Experience platform to accommodate 
             different brands with distinct look and feel, micro front-end apps using Angular and content management for both Desktop and mobile apps
 
             Architecting a REST API backend using Spring Boot , Spring REST Template , Spring Security. Integration with Oracle Database through 
@@ -75,7 +75,7 @@ experiences:
       time: 2011 - 2013
       company: Tata Consultancy Services , Chennai, India
       details: |
-            Design and Build of Customer relationship manaement application for multiple regions using Java/J2EE technologies
+            Design and Build of Customer Relationship Management application for multiple regions using Java/J2EE technologies
 
 
     - role: Technology Analyst
