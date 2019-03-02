@@ -1,5 +1,3 @@
-# Welcome to Dinakaran's Personal Site 
-
 ## Professional Experience
 
 - Architecting and Building Transformative Digital Solutions at the intersection of Web , Mobile , Content, Cloud Native architectures - Container, Orchestration , Serverless, Mobile Backend As a Service( MBAAS) 
