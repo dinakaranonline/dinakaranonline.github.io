@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Dinakaran's Personal Site 
 
-You can use the [editor on GitHub](https://github.com/dinakaranonline/dinakaranonline.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Architecting and Building Transformative Digital Solutions at the intersection of Web , Mobile , Content, Cloud Native architectures - Container, Orchestration , Serverless, Mobile Backend As a Service( MBAAS) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture ,design and development roles as well as good exposure in support and maintenance of large scale applications 
 
-### Markdown
+- Proficient in the technology stack of Java/J2EE Core Java , MVC - Struts, JSF , Webservices - SOAP and REST and JSR specifications. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- In-depth working knowledge of Portal / Web Content Management products like WebSphere Portal/ Web Content Management/ Portlet Factory/ Enterprise Search, WebSphere Application Server. 
 
-```markdown
-Syntax highlighted code block
+- Hands-on experience in modern web technologies like Angular , Ember, React, Bootstrap , Responsive Web Design, Ajax, JQuery-JSON . 
 
-# Header 1
-## Header 2
-### Header 3
+- Architecting solutions on top of Google Firebase / Azure Mobile Apps and integration with cross platform applications using Xamarin and React Native and API Gateways like Mulesoft / Apigee
 
-- Bulleted
-- List
+- Knowledge of  OpenShift platforms built on top of Docker and Kubernetes, CI/CD Pipelines, Key Cloak Identity Provider. Develop and deploying front end apps in Angular or React and back end applications Spring Boot Microservices , oAuth 2.0/ OpenID connect integration 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- Exposure to Business Domains like Banking , Insurance , Life Sciences , Retail and eCommerce 
 
-[Link](url) and ![Image](src)
-```
+Have fair amount of experience leveraging many of the components from all 3 major cloud providers - AWS , GCP and Azure . 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And I CODE. https://github.com/dinakaranonline
 
-### Jekyll Themes
+# Career Progression 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dinakaranonline/dinakaranonline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Java/J2EE / Portal , Content Management (12 years , since 2006 ) 
 
-### Support or Contact
+2. Front End Web Development Angular/Ember ( 3 years , since 2017 )
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. Cloud Native / MBAAS / Serverless / DevOps ( 1 year , since 2018 )
+
+
