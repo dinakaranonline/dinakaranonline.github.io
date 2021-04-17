@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dinakaran.dev
+Token: 7c31669c96502da2c63844f6eef9da2cf0a83abd922fd45acf62812b88583f2b
